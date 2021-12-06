@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Eat",
+    "img": "assets/Eat.png",
+    "color": "0xffEA5D7E"
+  },
+  {
+    "title": "Do",
+    "img": "assets/Do.png",
+    "color": "0xffF1A760"
+  },
+  {
+    "title": "See",
+    "img": "assets/See.png",
+    "color": "0xff4ED0F9"
+  },
+  {
+    "title": "Surprise",
+    "img": "assets/Surprise.png",
+    "color": "0xff8089FE"
+  }
+]
+
